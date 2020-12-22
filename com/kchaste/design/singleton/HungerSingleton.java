@@ -4,6 +4,7 @@ package com.kchaste.design.singleton;
  * Hunger singleton.
  * You can by {@link #getInstance()} get instance proceed test
  *
+ * @see Runtime
  * @author KChaste Sun
  */
 public class HungerSingleton {

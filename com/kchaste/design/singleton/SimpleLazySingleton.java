@@ -3,11 +3,11 @@ package com.kchaste.design.singleton;
 /**
  * Simple lazy singleton
  *
- * Though this possess lazy load of function,But there
- * {@link #getInstance()} concurrency or other problem.
+ * <p>Though this possess lazy load of function,But there
+ * {@link #getInstance()} concurrency or other problem.</p>
  *
  *
- * This also Class name is 'simple' reason.
+ * <p>This also Class name is 'simple' reason.</p>
  *
  * @author KChaste Sun
  */
