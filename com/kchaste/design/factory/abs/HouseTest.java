@@ -15,6 +15,13 @@ public class HouseTest {
          */
         RURAL
     }
+
+    /**
+     * house factory selector
+     * instance ought to pass class path reflect create
+     * @param type house style
+     * @return house factory
+     */
     public static HouseFactory factorySelect(HouseType type){
         switch (type){
             case RURAL:
