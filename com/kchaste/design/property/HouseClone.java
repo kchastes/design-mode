@@ -1,6 +1,8 @@
 package com.kchaste.design.property;
 
 /**
+ *
+ * @see Object#clone()
  * @author KChaste Sun
  */
 public class HouseClone {
