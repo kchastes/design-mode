@@ -1,7 +1,8 @@
 package com.kchaste.design.builder;
 
 /**
- *
+ * @see StringBuilder#append(int)
+ * @see StringBuffer#append(int)
  * @author KChaste Sun
  */
 public class BuilderTest {

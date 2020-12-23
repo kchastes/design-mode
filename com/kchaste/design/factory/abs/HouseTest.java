@@ -1,6 +1,10 @@
 package com.kchaste.design.factory.abs;
 
+import javax.xml.xpath.XPathFactory;
+
 /**
+ *
+ * @see XPathFactory#newInstance()
  * @author KChaste Sun
  */
 public class HouseTest {
