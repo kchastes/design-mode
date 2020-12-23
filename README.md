@@ -11,3 +11,4 @@ me your help.
 
 ## Reference
 * [RefactoringGuru WebSite](https://refactoringguru.cn/)
+* [Java-design-patterns](https://github.com/iluwatar/java-design-patterns)

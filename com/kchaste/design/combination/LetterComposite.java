@@ -5,7 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- *
+ * <p>I think this example is very nice!!!</p>
+ * From : <a href="https://github.com/iluwatar/java-design-patterns">java-design-patterns</a>
+ * @author KChaste Sun
  */
 public abstract class LetterComposite {
 
