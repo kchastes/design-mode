@@ -1,5 +1,5 @@
 # Design-mode
-![JDK VERSION](https://img.shields.io/badge/JDK-1.8-green)
+![JDK version](https://img.shields.io/badge/JDK-1.8-green)
 ## Overview
 This project include design-mode implemented in Java,architecture design and other design.If you find something wrong 
 or A better way,You can submit issues.
