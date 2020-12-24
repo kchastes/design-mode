@@ -1,6 +1,6 @@
 # Design-mode
 ![JDK version](https://img.shields.io/badge/JDK-1.8-green)
-> The code there are places where is omitted.(A little lazy :worried)
+> The code there are places where is omitted.(A little lazy 😩)
 ## Overview
 This project include design-mode implemented in Java,architecture design and other design.If you find something wrong 
 or A better way,You can submit issues.
