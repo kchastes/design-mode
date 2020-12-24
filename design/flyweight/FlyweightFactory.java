@@ -3,6 +3,9 @@ package design.flyweight;
 import java.util.HashMap;
 
 /**
+ *
+ * flyweight get instance
+ *
  * @author KChaste Sun
  */
 public class FlyweightFactory {
