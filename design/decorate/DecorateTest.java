@@ -18,7 +18,4 @@ public class DecorateTest {
         notifyDecorate.send("aaa");
 
     }
-
-
-
 }
